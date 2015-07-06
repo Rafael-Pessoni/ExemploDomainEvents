@@ -1,12 +1,14 @@
 ﻿using ExemploDomainEvents.Events.Interfaces;
 using System;
 
-namespace ExemploDomainEvents.ValueObjects
+namespace ExemploDomainEvents.Events.Implementations
 {
     public class FilmeAlugado : IDomainEvent
     {
-        public FilmeAlugado()
+        public FilmeAlugado(int idFilme, int idCliente)
         {
+            IdFilme = idFilme;
+            IdCliente = idCliente;
             Quando = DateTime.Now;
         }
 

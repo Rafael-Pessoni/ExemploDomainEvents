@@ -1,5 +1,4 @@
 ﻿using ExemploDomainEvents.Events.Interfaces;
-using ExemploDomainEvents.ValueObjects;
 using System;
 
 namespace ExemploDomainEvents.Events.Implementations

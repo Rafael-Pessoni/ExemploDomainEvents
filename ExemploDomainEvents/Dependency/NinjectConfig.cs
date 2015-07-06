@@ -1,6 +1,5 @@
 ﻿using ExemploDomainEvents.Events.Implementations;
 using ExemploDomainEvents.Events.Interfaces;
-using ExemploDomainEvents.ValueObjects;
 using Ninject;
 using Ninject.Syntax;
 using System;

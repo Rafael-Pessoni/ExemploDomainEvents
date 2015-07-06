@@ -73,7 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Events\Implementations\DomainEvents.cs" />
-    <Compile Include="ValueObjects\FilmeAlugado.cs" />
+    <Compile Include="Events\Implementations\FilmeAlugado.cs" />
     <Compile Include="Events\Implementations\GravaNoBancoQuandoUmFilmeEhAlugado.cs" />
     <Compile Include="Events\Interfaces\IDomainEvent.cs" />
     <Compile Include="Events\Interfaces\IEnderecadorDeEvento.cs" />
