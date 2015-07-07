@@ -1,5 +1,5 @@
 ﻿using ExemploDomainEvents.Dependency;
-using ExemploDomainEvents.Events.Implementations;
+using ExemploDomainEvents.Entities;
 using System;
 
 namespace ExemploDomainEvents
@@ -10,13 +10,12 @@ namespace ExemploDomainEvents
 
         static void Main(string[] args)
         {
-            NinjectConfig.ResolveDependencies();
+            DependencyConfig.RegisterServices();
 
-            //preparando o evento
-            var alugaramUmFilme = new FilmeAlugado(1, 1);
+            //criando uma reserva
+            var reserva = Reserva.Create(1, 1);
 
-            //lançando o evento
-            DomainEvents.Raise(alugaramUmFilme);
+            //alguma logica com a reserva...
 
             Console.ReadLine();
         }
