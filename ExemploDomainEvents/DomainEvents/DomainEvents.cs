@@ -11,9 +11,7 @@ namespace ExemploDomainEvents.DomainEvents
             var handles = DependencyConfig.GetContainer().GetAllInstances<IHandle<T>>();
 
             foreach (var handle in handles)
-            {
                 handle.Handle(evento);
-            }
         }
     }
 }
