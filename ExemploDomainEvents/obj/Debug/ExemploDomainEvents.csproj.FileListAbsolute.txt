@@ -6,3 +6,11 @@ D:\Projects\ExemploDomainEvents\ExemploDomainEvents\obj\Debug\ExemploDomainEvent
 D:\Projects\ExemploDomainEvents\ExemploDomainEvents\obj\Debug\ExemploDomainEvents.pdb
 D:\Projects\ExemploDomainEvents\ExemploDomainEvents\bin\Debug\SimpleInjector.dll
 D:\Projects\ExemploDomainEvents\ExemploDomainEvents\bin\Debug\SimpleInjector.xml
+D:\Projetos\DOTNET\DomainEvents\ExemploDomainEvents\bin\Debug\ExemploDomainEvents.exe.config
+D:\Projetos\DOTNET\DomainEvents\ExemploDomainEvents\bin\Debug\ExemploDomainEvents.exe
+D:\Projetos\DOTNET\DomainEvents\ExemploDomainEvents\bin\Debug\ExemploDomainEvents.pdb
+D:\Projetos\DOTNET\DomainEvents\ExemploDomainEvents\bin\Debug\SimpleInjector.dll
+D:\Projetos\DOTNET\DomainEvents\ExemploDomainEvents\bin\Debug\SimpleInjector.xml
+D:\Projetos\DOTNET\DomainEvents\ExemploDomainEvents\obj\Debug\ExemploDomainEvents.csprojResolveAssemblyReference.cache
+D:\Projetos\DOTNET\DomainEvents\ExemploDomainEvents\obj\Debug\ExemploDomainEvents.exe
+D:\Projetos\DOTNET\DomainEvents\ExemploDomainEvents\obj\Debug\ExemploDomainEvents.pdb
